@@ -6,7 +6,6 @@ import { ChainId, ThirdwebProvider } from '@thirdweb-dev/react';
 import { StateContextProvider } from './context';
 import App from './App';
 import './index.css';
-import { sepolia } from "@thirdweb-dev/chains";
 
 
 
